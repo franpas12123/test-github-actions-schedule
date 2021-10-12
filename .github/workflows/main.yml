@@ -13,5 +13,5 @@ jobs:
       - name: Running
         run: |
           echo "Running!"
-          sleep 20
+          sleep 1m
           echo "Waking up!"
